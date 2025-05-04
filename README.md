@@ -1,7 +1,7 @@
 # Here is MedifBot. A chatbot trained with mistral model to help you ease your pains.
 
-Disclaimer : This is not an accurate bot, you should consult a doctor if you don't feel well.
-
+# Disclaimer : This is not an accurate bot, you should consult a doctor if you don't feel well.
+# Before getting started, go to .env file and add your api_keys
 ## Available Scripts
 
 In the project directory, you can run:
